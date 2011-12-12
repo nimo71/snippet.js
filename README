@@ -1,0 +1,6 @@
+Snippet.js
+
+Framework for use with Node.js... 
+
+Loads JavaScript snippets declared on the class attribute of an element in HTML. The snippet can then 
+manipulate the element using jQuery. 
